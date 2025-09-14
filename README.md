@@ -46,8 +46,12 @@ Floods strike fast. People need one clear, **local alert** they can share in sec
 - 📱 WhatsApp broadcast alerts  
 
 ---
+## 📸 Screenshots  
 
-## 📸 Screenshots
+![Home](src/assets/Home.png)  
+![Maps](src/assets/Maps.png)  
+![Alert](src/assets/Alert.png)  
+![Safety Tips](src/assets/Safety_Tipes.png)  
 
 ---
 
